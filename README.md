@@ -1,5 +1,6 @@
 - Hi, I’m Matthew Heiden, @matt-kandel, and I am a technical analyst at Munich Re.
-- I'm interested in python and julia intersection of actuarial/insurance work and programming, especially in the julia language.
+- I'm interested in the intersection of actuarial work and programming.
+- In my job, I mostly use Python, but I'm trying to switch to Julia as much as possible.
 - My email is mheiden2@munichre.com
 
 <!---
