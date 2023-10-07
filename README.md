@@ -1,6 +1,5 @@
 - Hi, I’m Matthew Heiden, and I am a technical analyst at Munich Re.
-- I'm interested in the intersection of actuarial work and programming.
-- In my job, I mostly use Python, but I'm trying to switch to Julia as much as possible.
+- In my job, I mostly use Python and R, but I'm trying to switch to Julia as much as possible.
 - My email is mat.heiden@gmail.com
 
 <!---
